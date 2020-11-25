@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+   //  function tinhTong(arr){
+   //      let sum=0;
+   //      for (i=0;i<arr.length;i++){
+   //          sum+=arr[i]
+   //      }
+   //      return sum
+   //  }
+   //  let a=new Array(2,3,5,-4,6,87,32);
+   // alert(tinhTong(a))
+    function checkPrime(number){
+        if (number<2)
+            return false;
+        for (let i=2;i<number;i++){
+            if (number%i==0)
+                return false
+        }
+        return true
+    }
+    alert(checkPrime(100))
+</script>
+</body>
+</html>
