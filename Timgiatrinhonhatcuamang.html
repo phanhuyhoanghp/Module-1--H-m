@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Xây dựng hàm tìm giá trị nhỏ nhất của mảng</title>
+</head>
+<body>
+<script>
+    let arr1=new Array(1,3,4,5,23,5,46,-3,-3434,0);
+    let arr2=new Array(3,2,67,3,-3,-35,7);
+    let arr3=new Array(4,2,5,78,45,23);
+    let arr4=new Array(32,546,232,678,434,);
+    function minArray(arr){
+        let min=arr[0];
+        for (let i = 1; i <arr.length ; i++) {
+            if (arr[i]<min){
+                min=arr[i];
+            }
+
+        } return min;
+    }
+    document.write("Gia tri nho nhat cua mang arr1: "+minArray(arr1))
+    document.write("<br>Gia tri nho nhat cua mang arr2: "+minArray(arr2))
+    document.write("<br>Gia tri nho nhat cua mang arr3: "+minArray(arr3))
+    document.write("<br>Gia tri nho nhat cua mang arr4: "+minArray(arr4))
+
+</script>
+</body>
+</html>
