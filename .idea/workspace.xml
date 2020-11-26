@@ -20,8 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ec39435-f00c-4160-be27-fc21cf79f90c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HienthicacSNT.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baitap-Mang1/.idea/Baitap-Mang1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baitap-Mang1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baitap-Mang1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baitap-Mang1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baitap-Mang1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baitap-Mang1/Bai1-Hamtinhbinhphuong.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baitap-Mang1/Dientich-Chuvi.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +53,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Thuc hanh vong lap 1/hienthi20SNT.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -64,7 +70,8 @@
       <workItem from="1606265506173" duration="1059000" />
       <workItem from="1606270387584" duration="77000" />
       <workItem from="1606286554897" duration="3073000" />
-      <workItem from="1606361485056" duration="5170000" />
+      <workItem from="1606361485056" duration="6067000" />
+      <workItem from="1606376748293" duration="21000" />
     </task>
     <servers />
   </component>
@@ -84,9 +91,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606364282256">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606376767336">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606364282256" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606376767336" />
   </component>
 </project>
