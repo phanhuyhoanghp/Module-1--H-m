@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ham tinh giai thua</title>
+</head>
+<body>
+<script>
+    function tinhGiaithua(number){
+        let giaithua=1;
+        if (number<0) {
+            alert("Không tính đuọc giai thừa")
+        } else {
+            if (number==0){
+                return  giaithua;
+            }
+            else {
+                for (let i = 1; i <=number ; i++) {
+                    giaithua=giaithua*i;
+                }
+
+                return giaithua;
+            }
+        }
+        }
+    let a=+prompt('Nhập số: ')
+    alert("Giai thừa của a: " +tinhGiaithua(a))
+</script>
+</body>
+</html>

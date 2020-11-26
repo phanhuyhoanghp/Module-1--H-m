@@ -20,14 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ec39435-f00c-4160-be27-fc21cf79f90c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Baitap-Ham1/Bai4-Kiemtraky.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baitap-Ham1/Tinhgiaithua.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baitap-Mang1/.idea/Baitap-Mang1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baitap-Mang1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baitap-Mang1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baitap-Mang1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baitap-Mang1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baitap-Mang1/Bai1-Hamtinhbinhphuong.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baitap-Mang1/Dientich-Chuvi.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +67,7 @@
       <workItem from="1606286554897" duration="3073000" />
       <workItem from="1606361485056" duration="6067000" />
       <workItem from="1606376748293" duration="21000" />
+      <workItem from="1606376770404" duration="2485000" />
     </task>
     <servers />
   </component>
