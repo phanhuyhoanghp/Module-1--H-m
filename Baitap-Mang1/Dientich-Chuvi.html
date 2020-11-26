@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ham tinh dien tich - chu vi</title>
+</head>
+<body>
+<script>
+    function tinhDientich(radius){
+        let pi=3.14159;
+        let s =pi*radius*radius;
+        return s;
+    }
+    function tinhChuvi(radius){
+        let pi=3.14159;
+        let chuvi=2*pi*radius
+        return chuvi;
+    }
+    let r=+prompt('Nhập bán kính: ');
+    alert('Diện tích hình tròn: '+tinhDientich(r));
+    alert('Chu vi hinh tron: '+tinhChuvi(r))
+
+</script>
+</body>
+</html>
