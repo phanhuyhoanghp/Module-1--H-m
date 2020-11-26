@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ec39435-f00c-4160-be27-fc21cf79f90c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Timgiatrinhonhatcuamang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HienthicacSNT.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Mang/timgiatrilonnhat.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Thuc hanh vong lap 1/hienthi20SNT.html" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -64,7 +64,7 @@
       <workItem from="1606265506173" duration="1059000" />
       <workItem from="1606270387584" duration="77000" />
       <workItem from="1606286554897" duration="3073000" />
-      <workItem from="1606361485056" duration="1780000" />
+      <workItem from="1606361485056" duration="5170000" />
     </task>
     <servers />
   </component>
@@ -84,9 +84,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606362824331">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606364282256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606362824331" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606364282256" />
   </component>
 </project>
