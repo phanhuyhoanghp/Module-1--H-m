@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--<form>-->
+<input type="text" placeholder="New product" id="newProduct"><button onclick="addNewProduct()">Add</button>
+<!--</form>-->
+<h1>Danh sach san pham</h1>
+<table style="border: 1px solid">
+    <thead>
+
+    <td>stt</td>
+    <td>ten</td>
+    <td>sua</td>
+    <td>xoa</td>
+    </thead>
+
+    <tbody id="list">
+    <tr>
+        <td>STT</td>
+        <td>ten spham</td>
+        <td><button onclick="editProduct()">Edit</button></td>
+        <td><button onclick="deleteProduct()">Delete</button></td>
+    </tr>
+    </tbody>
+</table>
+
+<script src="ManagerProduct.js"></script>
+</body>
+</html>
